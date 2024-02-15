@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8afe5c1a-9caa-451d-a305-7d33e0a4cf08" name="Changes" comment="Initial commit for birthday_cake_candles.py.">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="8afe5c1a-9caa-451d-a305-7d33e0a4cf08" name="Changes" comment="Working solution.">
       <change beforePath="$PROJECT_DIR$/src/birthday_cake_candles.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/birthday_cake_candles.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -34,6 +33,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.birthday_cake_candles.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
@@ -62,7 +62,7 @@
       <option name="presentableId" value="Default" />
       <updated>1708003173448</updated>
       <workItem from="1708003175501" duration="2363000" />
-      <workItem from="1708007372595" duration="971000" />
+      <workItem from="1708007372595" duration="1522000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit for birthday_cake_candles.py.">
       <option name="closed" value="true" />
@@ -72,7 +72,15 @@
       <option name="project" value="LOCAL" />
       <updated>1708003296088</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Working solution.">
+      <option name="closed" value="true" />
+      <created>1708008993538</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1708008993538</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -80,6 +88,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial commit for birthday_cake_candles.py." />
-    <option name="LAST_COMMIT_MESSAGE" value="Initial commit for birthday_cake_candles.py." />
+    <MESSAGE value="Working solution." />
+    <option name="LAST_COMMIT_MESSAGE" value="Working solution." />
   </component>
 </project>
