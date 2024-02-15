@@ -35,4 +35,4 @@ def equals_current_max(height, current_max):
 
 # Driver code
 example_candles = [3, 2, 1, 3]
-print(birthdayCakeCandles(example_candles))  # 2
+print(birthday_cake_candles(example_candles))  # 2
