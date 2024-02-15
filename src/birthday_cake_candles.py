@@ -6,7 +6,7 @@ def birthday_cake_candles(candles):
         if equals_current_max(height, current_max):
             increment_count(answer)
         elif greater_than_current_max(current_max, height):
-            current_max = update_current_max(current_max, height)
+            current_max = update_current_max(height)
             answer = update_answer_current_max(current_max)
 
     return answer["Count"]
@@ -16,7 +16,7 @@ def update_answer_current_max(current_max):
     return {"Max_Height": current_max, "Count": 1}
 
 
-def update_current_max(current_max, height):
+def update_current_max(height):
     current_max = height
     return current_max
 
